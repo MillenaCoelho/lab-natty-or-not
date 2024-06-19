@@ -25,4 +25,4 @@ Foram geradas imagens por inteligência artificial, com o objetivo de montar um 
 - [Imagem Gerada 1](exemplos/image_IA/imagemseart_leonardo_ia.jpg)
 - [Imagem Gerada 2](exemplos/image_IA/imagemcartoon.jpg)
 - [Vídeo Final](exemplos/image_IA/video_tiktok.mp4)
-- [Configurações e Prompt](configuraçoes_prompt_seart.jpg)
+- [Configurações e Prompt](exemplos/image_IA/configuraçoes_prompt_seaart.jpg)
