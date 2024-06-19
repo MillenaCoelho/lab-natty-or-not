@@ -22,6 +22,6 @@ Foram geradas imagens por inteligência artificial, com o objetivo de montar um 
 ## 🚀 Resultados
 
 ## 📁 Arquivos
-- [Imagem Gerada 1](caminho/para/imagem1.png)
+- [Imagem Gerada 1](exemplos/image_IA/202406191550.mp4)
 - [Imagem Gerada 2](caminho/para/imagem2.png)
 - [Vídeo Final](caminho/para/video.mp4)
