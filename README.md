@@ -20,7 +20,7 @@ Foram geradas imagens por inteligência artificial, com o objetivo de montar um 
 7. Finalmente, fiz a postagem no TikTok, obtendo o selo da plataforma.
 
 ## 🚀 Resultados
-![Video TikTok](https://www.tiktok.com/@millenacoelho98/video/7382299494131551493?is_from_webapp=1&sender_device=pc&web_id=7372365129021949446)
+[Video TikTok](https://www.tiktok.com/@millenacoelho98/video/7382299494131551493?is_from_webapp=1&sender_device=pc&web_id=7372365129021949446)
 ## 📁 Arquivos
 - [Imagem Gerada 1](exemplos/image_IA/imagemseart_leonardo_ia.jpg)
 - [Imagem Gerada 2](exemplos/image_IA/imagemcartoon.jpg)
